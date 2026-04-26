@@ -51,6 +51,9 @@ Visual Skill Analysis using Interactive Charts
 - `scoring_engine.py` → Resume Matching + Candidate Scoring
 - `learning_plan.py` → Personalized Learning Plan Generator
 
+📊 Project Diagram
+SkillsBridge.png
+
 How to Run Locally:
 ```bash
 pip install -r requirements.txt
